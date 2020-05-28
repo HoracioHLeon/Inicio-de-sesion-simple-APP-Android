@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Inicio Sesion Simple</string>
+    <string name="Mensaje_bienveinida">!Bienvenido</string>
+    <string name="salir">Salir</string>
+    <string name="texto_de_bienvenida">Texto de Bienvenida</string>
+</resources>
